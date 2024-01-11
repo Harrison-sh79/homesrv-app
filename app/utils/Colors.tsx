@@ -1,0 +1,15 @@
+export default {
+  PRIMARY: '#8E3FFF',
+  LIGHT_PRIMARY: '#E5D2FF',
+  GRAY:'#898989',
+  WHITE:'#ffffff',
+  BLACK:'#000000',
+  WHITE_TRANSP: '#ffffff87',
+  RED:'#FD0000',
+  LIGHT_GRAY: '#EDEDED',
+  LIGHT_GREEN: '#C8F9D6',
+  GREEN: '#00AE31',
+  LIGHT_RED: '#FFC9CC',
+  YELLOW: '#ABAF00',
+  LIGHT_YELLOW: '#FEFFC6',
+}
